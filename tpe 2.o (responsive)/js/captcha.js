@@ -27,13 +27,13 @@ function testear(e) {
   e.preventDefault();
   if (formulario.value == valorCaptcha.textContent) {
     let parrafo = document.getElementById('resultado');
-    parrafo.innerHTML = "Captcha VALIDO";
+    parrafo.innerHTML = "Captcha PIOLA";
     document.getElementById('email').value = "";
     document.getElementById('tel').value = "";
   }
   else {
     let parrafo = document.getElementById('resultado');
-    parrafo.innerHTML = "Captcha INVALIDO";
+    parrafo.innerHTML = "Captcha NO PIOLA";
   }
 }
 
