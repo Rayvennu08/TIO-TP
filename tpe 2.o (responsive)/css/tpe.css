@@ -155,6 +155,9 @@ ul li{
 
 /* Medidas y edición de tabla de personajes */
 .tabla{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
     margin: 2%;
     margin-left: auto;
     margin-right: auto;
