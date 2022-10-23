@@ -304,7 +304,7 @@ a:hover {
 @media only screen and (min-width: 600px)  {
 
     body {
-        background-image: url('../img/fondo.png');
+        background-color: cornsilk;
         background-repeat: no-repeat;
         background-attachment: fixed;
         background-size: cover;
