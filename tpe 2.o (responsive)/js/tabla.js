@@ -44,6 +44,8 @@ function mostrarTabla() {
                                 <td>${item.edad}</td>
                                 <td>${item.apodos}</td>
                                 <td>${item.apariencia}</td>
+                                <td>COLUMNA EXTRA 1</td>
+                                <td>COLUMNA EXTRA 2</td>
                            </tr>`
         
     }
