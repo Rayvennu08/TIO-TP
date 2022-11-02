@@ -1,11 +1,11 @@
 body {
-    background-image: url('../img/fondo.png');
+    background-color: cornsilk;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
     font-family: serif;
-    font-size: 16pt;
-    font-weight: 300;
+    font-size: 30pt;
+    font-weight: 350;
     word-spacing: 5px;
     text-shadow: 1px 1px #c3c3c3;
 }
@@ -50,7 +50,7 @@ hr {
 }
 
 .menu li a:hover {
-    color: red;
+    color: darkslateblue;
 }
 
 .menu li{
@@ -304,7 +304,7 @@ a:hover {
 @media only screen and (min-width: 600px)  {
 
     body {
-        background-image: url('../img/fondo.png');
+        background-color: cornsilk;
         background-repeat: no-repeat;
         background-attachment: fixed;
         background-size: cover;
