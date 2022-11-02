@@ -87,6 +87,7 @@ p {
     font-size: large;
     font-weight: 800;
     text-align: center;
+    color: #6a6969;
 }
 
 /* Altura y ancho de imagen de Guts y Puck */
@@ -107,7 +108,7 @@ p {
 
 /* margin entre lista de barra de navegacion */
 ul li{
-    margin: 0.75rem;
+    margin: 0.80rem;
 }
 
 /* Ancho y altura de imagen de Guts */
